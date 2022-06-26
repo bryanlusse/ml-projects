@@ -28,9 +28,9 @@ This repository hosts some of my personal machine learning projects. I decided t
 
 ## :chart_with_upwards_trend: Projects
 
-- [x] [Text clustering using News Headlines](link to be added)
-- [] [Text classification using News Headlines](link to be added)
-- [] [Movie recommendation](link to be added)
+- [x] [Text clustering using News Headlines](https://github.com/bryanlusse/ml-projects/tree/master/text-clustering)
+- [ ] Text classification using News Headlines
+- [ ] Movie recommendation
 
 
 
@@ -38,15 +38,8 @@ This repository hosts some of my personal machine learning projects. I decided t
 
 ```
 .
-├── dataset
-├── doodle_classifier.ipynb
-├── doodle_classifier_colab.ipynb       # Notebook for running on Colab GPU's
-├── LICENSE
-├── Network.png              
-├── saved_models                        # Folder with all saved models
-│   ├── combined_v2_28                  # Model predicting 10 classes
-│   └── improved_30_28_20_epochs        # Model predicting 30 classes   
-├── training_1                          # Training checkpoints
+├── text-clustering                     # First project
+├── assets                              # Logo
 └── README.md
 ```
 

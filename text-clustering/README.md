@@ -29,7 +29,7 @@
 
 This folder hosts a projects that performs unsupervised text clustering on a news headlines dataset. The data comes from the [News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset), which contains approximately 200k news headlines from the years 2012 to 2018 obtained from [The Huffington Post](https://www.huffingtonpost.com/).
 
-Unsupervised clustering is clustering without using truth labels to optimize your model. This can be helpful when trying to make sense of a lot of data, and gathering information on large groups in the data. Although the dataset *does* have truth labels, I decided not to use them as an added challenge. Other ML projects will make use of truth labels for classification..
+Unsupervised clustering is clustering without using truth labels to optimize your model. This can be helpful when trying to make sense of a lot of data, and gathering information on large groups in the data. Although the dataset *does* have truth labels, I decided not to use them as an added challenge. Other ML projects will make use of truth labels for classification.
 
 ## :carpentry_saw: Preprocessing
 
@@ -46,22 +46,23 @@ Models used for analysis were K-Means and Density-Based Spatial Clustering of Ap
 
 ## :closed_book: Results
 
-... was best model
-
-Model hosted on AWS
+K-Means clustering resulted in the best models. For the vectorization method it was not clear what worked best. Multiple methods should be explored in an unsupervised problem.
 
 ## :exclamation: Requirements
+
+Found in [requirements.txt](https://github.com/bryanlusse/ml-projects/blob/master/text-clustering/requirements.txt).
 
 
 ## :open_file_folder: Folder Structure
 
 ```
 .
-├── news_data.json                      # Dataset
-├── preprocessed.csv                    # Preprocessed data 
-├── Headline_clustering.ipynb           # Notebook for running full analysis
-├── Assets                              # Folder with images for notebook
-├── LICENSE
+├── data                                # News dataset
+├── assets                              # Images for notebook
+├── Text_Clustering.ipynb               # Main notebook
+├── iframe_figures                      # Plots of words in clusters
+├── outputs                             # Processed data and cluster labels
+├── requirements.txt                    # Required packages
 └── README.md
 ```
 
