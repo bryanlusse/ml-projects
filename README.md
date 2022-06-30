@@ -38,7 +38,8 @@ This repository hosts some of my personal machine learning projects. I decided t
 
 ```
 .
-├── text-clustering                     # First project
+├── text-clustering                     
+├── movie-recommendation                
 ├── assets                              # Logo
 └── README.md
 ```
