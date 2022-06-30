@@ -28,7 +28,7 @@
 
 This folder hosts a projects that performs movie recommendation on a dataset of movies. The data comes from [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset), which contains information on approximately 45,000 movies from 2017 and before obtained from [MovieLens](https://grouplens.org/datasets/movielens/) and [TMDB](https://www.themoviedb.org/?language=nl).
 
-The notebook can be accesed on Google Colab through this [link](https://drive.google.com/file/d/1j2JjiJLFcfRArl5IGFwfE5EfWiX4EY8T/view?usp=sharing)
+The notebook can be accesed on Google Colab through this [link](https://colab.research.google.com/drive/1j2JjiJLFcfRArl5IGFwfE5EfWiX4EY8T)
 
 Recommendation algorithms can be used in a large variety of fields. Recommendations can be based on content similarities, user interest similarities, demographics or general popularity. 
 
