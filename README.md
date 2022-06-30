@@ -23,15 +23,15 @@
 
 ## :scroll: Overview
 
-This repository hosts some of my personal machine learning projects. I decided to document projects in which I compared different models and preprocessing techniques, while predicting something fun / getting new insights from data. I have recently started and added my first project on text clustering. In the future more projects will be added. Every app has their own README explaining the project in more detail.
+This repository hosts some of my personal machine learning projects. I decided to document projects in which I compared different models and preprocessing techniques, while predicting something fun / getting new insights from data. I have recently started and added my first two projects on text clustering and movie recommendations. In the future more projects will be added. Every project has their own README explaining the project in more detail.
 
 
 ## :chart_with_upwards_trend: Projects
 
 - [x] [Text clustering using News Headlines](https://github.com/bryanlusse/ml-projects/tree/master/text-clustering)
+- [x] [Movie recommendation](https://github.com/bryanlusse/ml-projects/tree/master/movie-recommendation)
 - [ ] Text classification using News Headlines
-- [ ] Movie recommendation
-
+- [ ] Housing price predictions
 
 
 ## :open_file_folder: Folder Structure
