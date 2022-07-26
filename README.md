@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="drawing" width="400"/> <br />
+<img src="assets/logo.jpg" alt="drawing" width="400"/> <br />
 
 # Machine Learning Projects
 
